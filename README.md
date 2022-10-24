@@ -1,3 +1,4 @@
+[![coverage](https://github.com/SimiaoZhao/CINOT/actions/workflows/coverage.yml/badge.svg)](https://github.com/SimiaoZhao/CINOT/actions/workflows/coverage.yml)
 [![Python package](https://github.com/SimiaoZhao/CINOT/actions/workflows/python-package.yml/badge.svg)](https://github.com/SimiaoZhao/CINOT/actions/workflows/python-package.yml)
 # OxRSE Continuous Integration course
 
