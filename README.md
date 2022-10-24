@@ -1,4 +1,4 @@
-[![coverage](https://github.com/SimiaoZhao/CINOT/actions/workflows/coverage.yml/badge.svg)](https://github.com/SimiaoZhao/CINOT/actions/workflows/coverage.yml)
+[![codecov](https://codecov.io/gh/SimiaoZhao/CINOT/branch/main/graph/badge.svg?token=X2QNT2T7LL)](https://codecov.io/gh/SimiaoZhao/CINOT)
 [![Python package](https://github.com/SimiaoZhao/CINOT/actions/workflows/python-package.yml/badge.svg)](https://github.com/SimiaoZhao/CINOT/actions/workflows/python-package.yml)
 # OxRSE Continuous Integration course
 
